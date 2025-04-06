@@ -38,3 +38,16 @@ terraform.rc
 modules/ai-foundry-identity/rbac copy
 concatenated_output.txt
 output.txt
+*.md.tmp
+*tfplan*
+.DS_Store
+.terraform.lock.hcl
+README-generated.md
+avm.tflint.hcl
+avm.tflint.merged.hcl
+avm.tflint_example.hcl
+avm.tflint_example.merged.hcl
+avm.tflint_module.hcl
+avm.tflint_module.merged.hcl
+avmmakefile
+examples/*/policy
