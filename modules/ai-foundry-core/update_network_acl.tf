@@ -1,5 +1,5 @@
 locals {
-  force_update_tag_value = formatdate("YYYY-MM-DDTHH:MM:SSZ", timestamp())
+  force_update_tag_value = formatdate("YYYY-MM-DD'T'HH:MM:SSZ", timestamp())
   tenant_id              = data.azurerm_client_config.current.tenant_id
   
 }
