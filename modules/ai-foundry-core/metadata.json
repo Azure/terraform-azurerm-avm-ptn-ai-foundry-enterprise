@@ -1,0 +1,7 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "ai-foundry-enterprise/ai-foundry-core",
+  "moduleDescription": "AVM Terraform pattern module for ai-foundry-enterprise/ai-foundry-core.",
+  "canonicalType": "ai-foundry-enterprise/ai-foundry-core",
+  "telemetryIdPrefix": "46d3xtrf.ptn.7e2aaba"
+}
